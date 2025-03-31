@@ -23,7 +23,7 @@ This is a CRUD-based Employee Management System built using ASP.NET MVC and SQL 
 ## Setup Instructions
 1. **Clone the Repository**
    ```sh
-   git clone <https://github.com/Abnetayel/rr.gitl>
+   git clone https://github.com/Abnetayel/rr.gitl
    ```
 2. **Open in Visual Studio 2022**
    - Open the solution file (`.sln`).
